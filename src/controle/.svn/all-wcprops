@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/oberon-o/!svn/ver/127/oberon-o/src/controle
+END
+ExpValor.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/oberon-o/!svn/ver/127/oberon-o/src/controle/ExpValor.java
+END
+ControleDead.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/oberon-o/!svn/ver/127/oberon-o/src/controle/ControleDead.java
+END
+Temporarios.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/oberon-o/!svn/ver/127/oberon-o/src/controle/Temporarios.java
+END
+DeclaProcHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/oberon-o/!svn/ver/127/oberon-o/src/controle/DeclaProcHeader.java
+END
+ExpId.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/oberon-o/!svn/ver/127/oberon-o/src/controle/ExpId.java
+END
+Registradores.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/oberon-o/!svn/ver/127/oberon-o/src/controle/Registradores.java
+END
+ExpAtrib.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/oberon-o/!svn/ver/127/oberon-o/src/controle/ExpAtrib.java
+END
+ComRepeat.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/oberon-o/!svn/ver/127/oberon-o/src/controle/ComRepeat.java
+END
+DeclaStatements.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/oberon-o/!svn/ver/127/oberon-o/src/controle/DeclaStatements.java
+END
+DeclaIdList.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/oberon-o/!svn/ver/127/oberon-o/src/controle/DeclaIdList.java
+END
+Module.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/oberon-o/!svn/ver/127/oberon-o/src/controle/Module.java
+END
+DeclaId.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/oberon-o/!svn/ver/127/oberon-o/src/controle/DeclaId.java
+END
+ComElse.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/oberon-o/!svn/ver/127/oberon-o/src/controle/ComElse.java
+END
+ExpList.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/oberon-o/!svn/ver/127/oberon-o/src/controle/ExpList.java
+END
+Variaveis.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/oberon-o/!svn/ver/127/oberon-o/src/controle/Variaveis.java
+END
+ExpFactor.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/oberon-o/!svn/ver/127/oberon-o/src/controle/ExpFactor.java
+END
+ComExp.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/oberon-o/!svn/ver/127/oberon-o/src/controle/ComExp.java
+END
+Exp.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/oberon-o/!svn/ver/127/oberon-o/src/controle/Exp.java
+END
+ExpBinary.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/oberon-o/!svn/ver/127/oberon-o/src/controle/ExpBinary.java
+END
+ComConditional.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/oberon-o/!svn/ver/127/oberon-o/src/controle/ComConditional.java
+END
+ExpIdSize.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/oberon-o/!svn/ver/127/oberon-o/src/controle/ExpIdSize.java
+END
+ComAssignment.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/oberon-o/!svn/ver/127/oberon-o/src/controle/ComAssignment.java
+END
+DeclaCom.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/oberon-o/!svn/ver/127/oberon-o/src/controle/DeclaCom.java
+END
+Decla.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/oberon-o/!svn/ver/127/oberon-o/src/controle/Decla.java
+END
+DeclaArrayType.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/oberon-o/!svn/ver/127/oberon-o/src/controle/DeclaArrayType.java
+END
+DeclaProcBody.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/oberon-o/!svn/ver/127/oberon-o/src/controle/DeclaProcBody.java
+END
+ExpProcCall.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/oberon-o/!svn/ver/127/oberon-o/src/controle/ExpProcCall.java
+END
+Com.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/oberon-o/!svn/ver/127/oberon-o/src/controle/Com.java
+END
+DeclaConst.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/oberon-o/!svn/ver/127/oberon-o/src/controle/DeclaConst.java
+END
+DeclaVartype.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/oberon-o/!svn/ver/127/oberon-o/src/controle/DeclaVartype.java
+END
+ComExpDecla.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/oberon-o/!svn/ver/127/oberon-o/src/controle/ComExpDecla.java
+END
+Quad.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/oberon-o/!svn/ver/127/oberon-o/src/controle/Quad.java
+END
+DeclaDeclaDecla.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/oberon-o/!svn/ver/127/oberon-o/src/controle/DeclaDeclaDecla.java
+END
+ExpBoolean.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/oberon-o/!svn/ver/127/oberon-o/src/controle/ExpBoolean.java
+END

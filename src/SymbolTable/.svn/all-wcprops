@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/oberon-o/!svn/ver/127/oberon-o/src/SymbolTable
+END
+ModuleInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/oberon-o/!svn/ver/58/oberon-o/src/SymbolTable/ModuleInfo.java
+END
+ConstInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/oberon-o/!svn/ver/92/oberon-o/src/SymbolTable/ConstInfo.java
+END
+FunInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/oberon-o/!svn/ver/92/oberon-o/src/SymbolTable/FunInfo.java
+END
+VarInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/oberon-o/!svn/ver/92/oberon-o/src/SymbolTable/VarInfo.java
+END
+UndeclInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/oberon-o/!svn/ver/92/oberon-o/src/SymbolTable/UndeclInfo.java
+END
+Scope.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/oberon-o/!svn/ver/92/oberon-o/src/SymbolTable/Scope.java
+END
+Info.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/oberon-o/!svn/ver/127/oberon-o/src/SymbolTable/Info.java
+END
+ParamInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/oberon-o/!svn/ver/92/oberon-o/src/SymbolTable/ParamInfo.java
+END
+SymbolTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/oberon-o/!svn/ver/92/oberon-o/src/SymbolTable/SymbolTable.java
+END

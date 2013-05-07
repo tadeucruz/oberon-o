@@ -1,0 +1,23 @@
+module Sample; // Cabeçalho do módulo
+
+var x,y,z: integer;
+
+begin
+
+
+y := 0;
+z := 40;
+x := 0;
+
+while z > y do
+	y := y+1;
+	x := x+1;
+	if x > 1 then
+		x := 1000+x;
+	end;
+end;
+
+writeln(x);
+
+
+end Sample.
